@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  gap: 10px;
+}
+
+.AppInfo {
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+}
+.topinfo {
+  cursor: pointer;
+  background-color: #3e4b64;
+  height: 100px;
+}
+.topinfo p{
+  float: right;
+  padding-right:20px ;
+  padding-top: 20px;
+}
+.topinfo h3{
+  float: left;
+  padding-left:20px ;
+  padding-top: 20px;
+}
+
+.containinfo{
+ 
+  text-align: center;
+}
+
+.containinfo img {
+  width: 150px;
+  height: 150px;
+  margin-top: 10px;
+  border-radius: 50%;
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+ul,li{
+text-align: left;
+}
